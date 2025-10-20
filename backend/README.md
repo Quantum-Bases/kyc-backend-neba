@@ -38,4 +38,3 @@ The primary purpose of this backend is to process webhooks from Sumsub, a third-
 2. Configure environment variables in `.env`
 3. Start the server: `npm start`
 
-Refer to `API_DOCUMENTATION.md` for detailed API specifications.
